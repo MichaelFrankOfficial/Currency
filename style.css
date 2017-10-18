@@ -1,0 +1,31 @@
+body{
+    background-image: url("http://www.currencyonline.com/assets/img/slider/slider-2.jpg");
+}
+ul{
+    list-style-type: none;
+    margin:0 ;
+    padding: 0;
+    overflow: hidden;
+}
+a:link, a:visited{
+    display: block;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: gray;
+    width: 160px;
+    text-align: center;
+    padding: 4px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 1px white;
+}
+li{
+    float: left;
+}
+h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
